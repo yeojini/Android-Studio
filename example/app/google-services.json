@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344437939293",
+    "firebase_url": "https://aiqu-e888a.firebaseio.com",
+    "project_id": "aiqu-e888a",
+    "storage_bucket": "aiqu-e888a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344437939293:android:c999c868fd788d978a41b4",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344437939293-vtmf4a7jpc8s6nkfla40a74pt1o90260.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.example",
+            "certificate_hash": "0b3638494b4cbb0183feac7f561ef8a8758b4382"
+          }
+        },
+        {
+          "client_id": "344437939293-ckh43aklukq6t6gg417l975arhp5fj1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0WiBJBHDaVScuBiutTPJIggkT7yTBuCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344437939293-ckh43aklukq6t6gg417l975arhp5fj1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
